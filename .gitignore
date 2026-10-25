@@ -1,0 +1,23 @@
+# Generated local work and Python environments
+/LocalExports/
+/Work/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.blend1
+
+# Local app configuration and credentials
+.env
+.env.*
+!.env.example
+BambuStudio.conf
+bambu-studio.conf
+.bambu-studio-profile-mcp/
+
+# Machine-specific sliced output and desktop metadata
+*.gcode
+*.gcode.3mf
+Thumbs.db
+.DS_Store

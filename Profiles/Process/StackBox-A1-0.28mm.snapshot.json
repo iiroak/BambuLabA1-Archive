@@ -1,0 +1,77 @@
+{
+  "format": "BambuLabA1-Archive process snapshot; not a native importable preset",
+  "source_design": "StackBox-105x147x28",
+  "source_file": "StackBox_V3_NoAMS_Optimal.3mf",
+  "source_profile_attribution": "Nikyss (3MF metadata)",
+  "base_process_preset": "0.28mm Extra Draft @BBL A1",
+  "printer_preset": "Bambu Lab A1 0.4 nozzle",
+  "filament_presets": [
+    "Bambu PLA Basic @BBL A1"
+  ],
+  "nozzle_diameter_mm": [
+    "0.4"
+  ],
+  "values": {
+    "layer_height": "0.28",
+    "initial_layer_print_height": "0.2",
+    "wall_loops": "2",
+    "sparse_infill_density": "15%",
+    "sparse_infill_pattern": "grid",
+    "top_shell_layers": "4",
+    "bottom_shell_layers": "3",
+    "outer_wall_speed": [
+      "200"
+    ],
+    "inner_wall_speed": [
+      "200"
+    ],
+    "sparse_infill_speed": [
+      "200"
+    ],
+    "internal_solid_infill_speed": [
+      "200"
+    ],
+    "top_surface_speed": [
+      "200"
+    ],
+    "travel_speed": [
+      "700"
+    ],
+    "enable_support": "0",
+    "support_type": "tree(auto)",
+    "brim_type": "auto_brim",
+    "brim_width": "5",
+    "brim_object_gap": "0.1",
+    "enable_prime_tower": "1",
+    "wall_generator": "classic",
+    "seam_position": "aligned",
+    "print_sequence": "by layer",
+    "bottom_shell_thickness": "0",
+    "top_shell_thickness": "1",
+    "ironing_type": "no ironing",
+    "bridge_speed": [
+      "50"
+    ],
+    "initial_layer_speed": [
+      "50"
+    ],
+    "initial_layer_infill_speed": [
+      "105"
+    ],
+    "sparse_infill_acceleration": [
+      "100%"
+    ],
+    "outer_wall_acceleration": [
+      "5000"
+    ],
+    "inner_wall_acceleration": [
+      "0"
+    ],
+    "travel_acceleration": [
+      "10000"
+    ],
+    "default_acceleration": [
+      "6000"
+    ]
+  }
+}

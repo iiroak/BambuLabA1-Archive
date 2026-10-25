@@ -1,0 +1,63 @@
+{
+  "object_mm": [
+    147,
+    105,
+    28
+  ],
+  "verified_rectangular_usable_volume_mm": [
+    147.4,
+    105.4,
+    28.4
+  ],
+  "extra_clearance_per_side_mm": 0.2,
+  "outer_box_mm": [
+    156.3200062,
+    114.3200062,
+    33.113126412010956
+  ],
+  "outer_lid_mm": [
+    156.3200062,
+    114.3200062,
+    8.0
+  ],
+  "cavity_maximum_xy_mm": [
+    151.22,
+    109.22
+  ],
+  "cavity_floor_height_mm": 3.2000008,
+  "closed_lid_bottom_height_mm": 31.6000008,
+  "original_lid_seating_translation_mm": 28.486874387989044,
+  "part_intersection_volume_mm3": 8.932624750990215e-09,
+  "gauge_intersection_mm3": {
+    "box": 0.0,
+    "closed_lid": 0.0
+  },
+  "minimum_planar_gap_to_147_4x105_4_gauge_mm": 0.02787019298758071,
+  "plate_centres_mm": {
+    "box": [
+      128.0,
+      189.16000309999998,
+      0.0
+    ],
+    "lid": [
+      128.0,
+      66.8399969,
+      0.0
+    ]
+  },
+  "mesh_watertight": {
+    "box": true,
+    "lid": true
+  },
+  "source_modified": false,
+  "axes": "X length, Y width, Z height",
+  "units": "millimeter",
+  "boolean_volume_tolerance_mm3": 1e-05,
+  "physical_print_tested": false,
+  "reference_slice": {
+    "completed": true,
+    "layers": 119,
+    "estimated_seconds": 11002,
+    "max_z_mm": 33.24
+  }
+}

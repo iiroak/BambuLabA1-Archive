@@ -1,0 +1,22 @@
+STACKBOX AJUSTADA — CAJA Y TAPA
+
+Objeto previsto: 105 × 147 × 28 mm (10,5 × 14,7 × 2,8 cm).
+Volumen rectangular útil verificado: 105,4 × 147,4 × 28,4 mm,
+con la tapa cerrada: 0,2 mm adicionales por cada lado.
+
+Exterior de la caja: 114,32 × 156,32 × 33,11 mm.
+Exterior de la tapa: 114,32 × 156,32 × 8 mm.
+La cavidad alcanza 109,22 × 151,22 mm entre paredes, para que
+el rectángulo previsto quepa incluso en las esquinas redondeadas.
+
+Se conservaron los perfiles de encaje, el espesor de las paredes,
+la textura y los ajustes de impresión del proyecto suministrado.
+Ambas piezas están colocadas en una placa de Bambu Lab A1 de
+256 × 256 mm, con 8 mm de separación y un solo filamento.
+
+Abrir el 3MF como proyecto y volver a laminar antes de imprimir.
+Se incluyen también STL de la caja y la tapa, expresados en mm.
+Verificación digital realizada; el ajuste físico depende de la impresión.
+
+Diseño original: Agro1223. Licencia original conservada en el 3MF.
+Modificación dimensional: 24 de octubre de 2026.

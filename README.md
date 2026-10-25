@@ -1,0 +1,36 @@
+# BambuLabA1-Archive
+
+Mi archivo personal de diseños 3D, modificaciones, perfiles de impresión,
+configuraciones y pruebas con la **Bambu Lab A1**. Lo guardo aquí para tenerlo
+ordenado y compartir lo que pueda servirle a alguien más.
+
+## Diseños
+
+| Diseño | Descripción | Archivos | Estado |
+| --- | --- | --- | --- |
+| [StackBox · 105 × 147 × 28 mm](Designs/StackBox-105x147x28/) | Caja y tapa adaptadas para un objeto de esas medidas, con pequeña holgura | [3MF](Designs/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf), [STL caja](Designs/StackBox-105x147x28/Files/StackBox_Caja_105x147x28mm.stl), [STL tapa](Designs/StackBox-105x147x28/Files/StackBox_Tapa_105x147x28mm.stl) | Verificación digital y laminado; pendiente de prueba física |
+
+![StackBox ajustada: caja y tapa](Designs/StackBox-105x147x28/Preview.png)
+
+## Organización
+
+```text
+Designs/       Un directorio por diseño: archivos, medidas, vista previa y créditos
+Profiles/      Ajustes de proceso, filamento e impresora
+Scripts/       Herramientas para generar o modificar archivos
+Docs/          Convenciones y registro de pruebas
+Templates/     Plantillas para añadir nuevos diseños
+```
+
+- Cada diseño tiene su propia ficha y atribución.
+- Las medidas se registran en milímetros; se distingue espacio interior de tamaño exterior.
+- Los proyectos 3MF conservan el perfil utilizado. Los JSON marcados como snapshot son registros de ajustes, no presets importables.
+- [Cómo añadir contenido](Docs/Conventions.md) · [Registro de impresiones](Docs/Print-Log.md)
+
+## Licencias
+
+El código y la documentación originales de este archivo se publican bajo
+[MIT](LICENSE). Los diseños derivados y recursos de terceros conservan la
+licencia y los permisos indicados en su ficha; no pasan automáticamente a MIT.
+Consulta [el alcance de las licencias](LICENSES.md) y los
+[créditos de StackBox](Designs/StackBox-105x147x28/Attribution.md).

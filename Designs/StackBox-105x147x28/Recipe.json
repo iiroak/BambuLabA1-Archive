@@ -1,0 +1,77 @@
+{
+  "name": "StackBox-105x147x28",
+  "units": "millimeter",
+  "axes": "X length, Y width, Z height",
+  "source": {
+    "filename": "StackBox_V3_NoAMS_Optimal.3mf",
+    "sha256": "2fa9bfa76ab8e11a788dab697a2be17aaea0aee1f48e2c3f740af2c7a578003f",
+    "author": "Agro1223",
+    "license": "Standard Digital File License",
+    "url": "https://makerworld.com/en/models/3377683-japandi-stackbox-modular-storage-box-no-ams"
+  },
+  "object_dimensions_xyz_mm": [
+    147,
+    105,
+    28
+  ],
+  "verified_rectangular_volume_xyz_mm": [
+    147.4,
+    105.4,
+    28.4
+  ],
+  "extra_clearance_per_side_mm": 0.2,
+  "xy": {
+    "straight_half_spans_mm": [
+      63.5,
+      41.0
+    ],
+    "extensions_mm": [
+      11.3200062,
+      14.3200062
+    ]
+  },
+  "z": {
+    "stretch_interval_mm": [
+      -19.7999992,
+      18.0
+    ],
+    "shortening_mm": 18.886873587989044,
+    "floor_height_mm": 3.2000008,
+    "seated_lid_bottom_mm": 31.6000008
+  },
+  "output_3mf": "StackBox_105x147x28mm_Holgura_NoAMS.3mf",
+  "parts": [
+    {
+      "name": "box",
+      "model_path": "3D/Objects/object_1.model",
+      "object_id": 2,
+      "source_extents_mm": [
+        145,
+        100,
+        52
+      ],
+      "stl_filename": "StackBox_Caja_105x147x28mm.stl",
+      "plate_translation_mm": [
+        128.0,
+        189.16000309999998,
+        0.0
+      ]
+    },
+    {
+      "name": "lid",
+      "model_path": "3D/Objects/object_2.model",
+      "object_id": 4,
+      "source_extents_mm": [
+        145,
+        100,
+        8
+      ],
+      "stl_filename": "StackBox_Tapa_105x147x28mm.stl",
+      "plate_translation_mm": [
+        128.0,
+        66.8399969,
+        0.0
+      ]
+    }
+  ]
+}
