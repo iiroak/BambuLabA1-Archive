@@ -31,3 +31,17 @@ La carpeta de salida debe ser nueva. Se generan el 3MF, los STL y
 descarta las imágenes antiguas; los proyectos publicados incluyen renders
 propios de cada altura. El resultado debe caber dentro de la altura de la
 impresora configurada en el proyecto.
+
+## Prepare-StackBox-Plates.py
+
+Prepara un proyecto con los recipientes 3× y 6×, y otro con dos tapas.
+Las piezas se giran 90° para colocarlas lado a lado en la A1, con 8 mm de separación.
+
+```sh
+python Scripts/Prepare-StackBox-Plates.py --output-dir LocalExports/StackBox-PrintPlates
+```
+
+Python 3.10 o posterior, sin paquetes adicionales. La carpeta de salida debe
+ser nueva. El script genera proyectos editables y `Layout.json`; los
+[archivos publicados](../PrintPlates/StackBox-Height3x-Height6x/) incluyen también
+los renders y el G-code ya laminado para A1 / 0,4 mm / PLA Basic / PEI texturizado.

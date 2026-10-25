@@ -9,6 +9,9 @@ Se ha extendido el tramo recto de las paredes, conservando el fondo y el rebaje 
 
 ## Archivos para imprimir
 
+Para imprimir ambas alturas juntas y las dos tapas por separado, utiliza las
+[placas agrupadas ya laminadas](../../PrintPlates/StackBox-Height3x-Height6x/).
+
 - [Proyecto 3MF para Bambu Studio, sin AMS](Files/StackBox_Height6x_NoAMS.3mf)
 - [STL de la caja](Files/StackBox_Caja_Height6x.stl)
 - [STL de la tapa compatible](Files/StackBox_Tapa_Compatible.stl)

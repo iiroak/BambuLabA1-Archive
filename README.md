@@ -14,10 +14,17 @@ ordenado y compartir lo que pueda servirle a alguien más.
 
 ![StackBox ajustada: caja y tapa](Designs/StackBox-105x147x28/Preview.png)
 
+## Placas listas para la A1
+
+[Dos recipientes (3× y 6×) en una placa, y dos tapas en otra](PrintPlates/StackBox-Height3x-Height6x/).
+Incluye los archivos ya laminados para **A1, boquilla de 0,4 mm, PLA Basic y PEI texturizado**,
+además de los proyectos editables.
+
 ## Organización
 
 ```text
 Designs/       Un directorio por diseño: archivos, medidas, vista previa y créditos
+PrintPlates/   Proyectos agrupados y archivos ya laminados para imprimir
 Profiles/      Ajustes de proceso, filamento e impresora
 Scripts/       Herramientas para generar o modificar archivos
 Docs/          Convenciones y registro de pruebas

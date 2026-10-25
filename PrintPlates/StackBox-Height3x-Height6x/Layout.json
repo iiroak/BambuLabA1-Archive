@@ -1,0 +1,143 @@
+{
+  "units": "millimeter",
+  "plates": {
+    "containers": {
+      "project": "StackBox_A1_2_Recipientes.3mf",
+      "title": "StackBox - 2 recipientes - 3x y 6x - A1",
+      "items": [
+        {
+          "name": "StackBox_Recipiente_3x.stl",
+          "source_sha256": "d65e11b23800bd248b8a90f7d65ec2579d5681cc0d8dd6c2cbf988c446cc4be6",
+          "mesh_id": 1,
+          "object_id": 2,
+          "mesh_path": "3D/Objects/object_1.model",
+          "plate_bbox_xyz_mm": [
+            [
+              9.679993800000005,
+              49.8399969,
+              0.0
+            ],
+            [
+              124.0,
+              206.16000309999998,
+              99.339379236
+            ]
+          ],
+          "rotation_z_degrees": 90,
+          "translation_mm": [
+            66.8399969,
+            128.0,
+            0
+          ],
+          "triangles": 24960
+        },
+        {
+          "name": "StackBox_Recipiente_6x.stl",
+          "source_sha256": "7eb7f14a56371039fadf86f6cf216827847848120a92a0c4df3709b051812784",
+          "mesh_id": 3,
+          "object_id": 4,
+          "mesh_path": "3D/Objects/object_2.model",
+          "plate_bbox_xyz_mm": [
+            [
+              132.0,
+              49.8399969,
+              0.0
+            ],
+            [
+              246.32000620000002,
+              206.16000309999998,
+              198.678758472
+            ]
+          ],
+          "rotation_z_degrees": 90,
+          "translation_mm": [
+            189.1600031,
+            128.0,
+            0
+          ],
+          "triangles": 24960
+        }
+      ],
+      "bed_mm": [
+        256,
+        256
+      ],
+      "printable_height_mm": 256,
+      "gap_between_parts_mm": 8.0,
+      "print_sequence": "by layer",
+      "printer": "Bambu Lab A1",
+      "nozzle_mm": 0.4,
+      "filament": "Bambu PLA Basic",
+      "filaments": 1
+    },
+    "lids": {
+      "project": "StackBox_A1_2_Tapas.3mf",
+      "title": "StackBox - 2 tapas compatibles - A1",
+      "items": [
+        {
+          "name": "StackBox_Tapa_1.stl",
+          "source_sha256": "d65e11b23800bd248b8a90f7d65ec2579d5681cc0d8dd6c2cbf988c446cc4be6",
+          "mesh_id": 1,
+          "object_id": 2,
+          "mesh_path": "3D/Objects/object_1.model",
+          "plate_bbox_xyz_mm": [
+            [
+              9.679993800000005,
+              49.8399969,
+              0.0
+            ],
+            [
+              124.0,
+              206.16000309999998,
+              8.0
+            ]
+          ],
+          "rotation_z_degrees": 90,
+          "translation_mm": [
+            66.8399969,
+            128.0,
+            0
+          ],
+          "triangles": 23040
+        },
+        {
+          "name": "StackBox_Tapa_2.stl",
+          "source_sha256": "d65e11b23800bd248b8a90f7d65ec2579d5681cc0d8dd6c2cbf988c446cc4be6",
+          "mesh_id": 3,
+          "object_id": 4,
+          "mesh_path": "3D/Objects/object_2.model",
+          "plate_bbox_xyz_mm": [
+            [
+              132.0,
+              49.8399969,
+              0.0
+            ],
+            [
+              246.32000620000002,
+              206.16000309999998,
+              8.0
+            ]
+          ],
+          "rotation_z_degrees": 90,
+          "translation_mm": [
+            189.1600031,
+            128.0,
+            0
+          ],
+          "triangles": 23040
+        }
+      ],
+      "bed_mm": [
+        256,
+        256
+      ],
+      "printable_height_mm": 256,
+      "gap_between_parts_mm": 8.0,
+      "print_sequence": "by layer",
+      "printer": "Bambu Lab A1",
+      "nozzle_mm": 0.4,
+      "filament": "Bambu PLA Basic",
+      "filaments": 1
+    }
+  }
+}
