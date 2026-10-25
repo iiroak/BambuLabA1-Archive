@@ -24,6 +24,11 @@ ET.register_namespace("p", PROD)
 
 
 def xml_bytes(root: ET.Element) -> bytes:
+    if root.tag == "{http://schemas.openxmlformats.org/package/2006/relationships}Relationships":
+        ET.register_namespace("", "http://schemas.openxmlformats.org/package/2006/relationships")
+        payload = ET.tostring(root, encoding="UTF-8", xml_declaration=True)
+        ET.register_namespace("", CORE)
+        return payload
     return ET.tostring(root, encoding="UTF-8", xml_declaration=True)
 
 

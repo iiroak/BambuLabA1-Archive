@@ -9,6 +9,8 @@ ordenado y compartir lo que pueda servirle a alguien más.
 | Diseño | Descripción | Archivos | Estado |
 | --- | --- | --- | --- |
 | [StackBox · 105 × 147 × 28 mm](Designs/StackBox-105x147x28/) | Caja y tapa adaptadas para un objeto de esas medidas, con pequeña holgura | [3MF](Designs/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf), [STL caja](Designs/StackBox-105x147x28/Files/StackBox_Caja_105x147x28mm.stl), [STL tapa](Designs/StackBox-105x147x28/Files/StackBox_Tapa_105x147x28mm.stl) | Verificación digital y laminado; pendiente de prueba física |
+| [StackBox · altura 3×](Designs/StackBox-Height3x/) | Misma base y tapa; caja de 99,34 mm de alto exterior | [3MF](Designs/StackBox-Height3x/Files/StackBox_Height3x_NoAMS.3mf), [STL caja](Designs/StackBox-Height3x/Files/StackBox_Caja_Height3x.stl) | Verificación digital y laminado; pendiente de prueba física |
+| [StackBox · altura 6×](Designs/StackBox-Height6x/) | Misma base y tapa; caja de 198,68 mm de alto exterior | [3MF](Designs/StackBox-Height6x/Files/StackBox_Height6x_NoAMS.3mf), [STL caja](Designs/StackBox-Height6x/Files/StackBox_Caja_Height6x.stl) | Verificación digital y laminado; pendiente de prueba física |
 
 ![StackBox ajustada: caja y tapa](Designs/StackBox-105x147x28/Preview.png)
 

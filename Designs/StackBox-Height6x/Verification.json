@@ -1,0 +1,41 @@
+{
+  "units": "millimeter",
+  "axis_order": "X length, Y width, Z height",
+  "height_factor": 6,
+  "outer_box_xyz_mm": [
+    156.3200062,
+    114.3200062,
+    198.678758472
+  ],
+  "outer_lid_xyz_mm": [
+    156.3200062,
+    114.3200062,
+    8.0
+  ],
+  "usable_rectangular_xyz_mm": [
+    147.4,
+    105.4,
+    193.96563206
+  ],
+  "only_box_height_changed": true,
+  "identical_lid_geometry": true,
+  "base_and_rim_profiles_preserved": true,
+  "watertight": true,
+  "winding_consistent": true,
+  "single_component_per_part": true,
+  "intersection_volumes_mm3": {
+    "box_lid": 8.758000250945011e-09,
+    "box_gauge": 0.0,
+    "lid_gauge": 0.0
+  },
+  "intersection_volume_tolerance_mm3": 0.0001,
+  "fits_configured_A1_volume": true,
+  "physical_print_tested": false,
+  "reference_slice": {
+    "completed": true,
+    "estimated_time": "10h 40m 1s",
+    "estimated_seconds": 38401,
+    "layers": 710,
+    "max_z_mm": 198.72
+  }
+}

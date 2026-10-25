@@ -86,6 +86,17 @@ ser nueva. El script valida el SHA-256 del proyecto original para no aplicar
 la receta a una variante incompatible. Genera el mismo ajuste de mallas sin
 las imágenes de presentación; el empaquetado ZIP puede ser distinto.
 
+## Variantes de altura
+
+Estas versiones multiplican solo la altura exterior de la caja. Todas usan
+la misma tapa y conservan el ancho, el largo y los perfiles de encaje.
+
+| Variante | Altura exterior | Altura interior útil con tapa |
+| --- | --- | --- |
+| Esta versión | 33,11 mm | 28,40 mm |
+| [3×](../StackBox-Height3x/) | 99,34 mm | 94,63 mm |
+| [6×](../StackBox-Height6x/) | 198,68 mm | 193,97 mm |
+
 ## Autoría y permiso
 
 Consulta [Attribution.md](Attribution.md). La licencia MIT del código no

@@ -1,0 +1,36 @@
+{
+  "name": "StackBox-Height6x",
+  "units": "millimeter",
+  "axes": "X length, Y width, Z height",
+  "source_project": "Designs/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf",
+  "source_sha256": "c09d666aec6f8c78bf1933949c324d1a92c7a9f2fc51fcbe52f00182923e7f95",
+  "exterior_height_factor": 6.0,
+  "base_exterior_height_mm": 33.113126412,
+  "additional_wall_height_mm": 165.56563205999998,
+  "exterior_box_xyz_mm": [
+    156.3200062,
+    114.3200062,
+    198.67875847199997
+  ],
+  "exterior_lid_xyz_mm": [
+    156.3200062,
+    114.3200062,
+    8.0
+  ],
+  "usable_rectangular_xyz_mm": [
+    147.4,
+    105.4,
+    193.96563206
+  ],
+  "floor_height_mm": 3.2000008,
+  "closed_lid_bottom_mm": 197.16563286,
+  "wall_stretch_interval_mm": [
+    6.2000008,
+    25.113126412
+  ],
+  "printable_height_mm": 256.0,
+  "lid_compatible_with_base": true,
+  "output_3mf": "StackBox_Height6x_NoAMS.3mf",
+  "output_stl_box": "StackBox_Caja_Height6x.stl",
+  "output_stl_lid": "StackBox_Tapa_Compatible.stl"
+}
