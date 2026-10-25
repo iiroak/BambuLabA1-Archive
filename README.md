@@ -16,7 +16,7 @@ ordenado y compartir lo que pueda servirle a alguien más.
 
 ## Placas listas para la A1
 
-[Dos recipientes (3× y 6×) en una placa, y dos tapas en otra](PrintPlates/StackBox-Height3x-Height6x/).
+[Un pote con su tapa por proyecto: versiones 3× y 6×](PrintPlates/StackBox-Pote-y-Tapa/).
 Incluye los archivos ya laminados para **A1, boquilla de 0,4 mm, PLA Basic y PEI texturizado**,
 además de los proyectos editables.
 

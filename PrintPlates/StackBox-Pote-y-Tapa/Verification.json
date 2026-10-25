@@ -1,0 +1,58 @@
+{
+  "3": {
+    "parts": [
+      "StackBox_Caja_Height3x.stl",
+      "StackBox_Tapa_Compatible.stl"
+    ],
+    "part_count": 2,
+    "containers": 1,
+    "lids": 1,
+    "box_outer_height_mm": 99.339379236,
+    "project": "Projects/StackBox_A1_3x_Pote_y_Tapa.3mf",
+    "sliced_file": "Files/StackBox_A1_3x_Pote_y_Tapa.gcode.3mf",
+    "printer": "Bambu Lab A1",
+    "nozzle_mm": 0.4,
+    "filament": "Bambu PLA Basic",
+    "bed_type": "Textured PEI Plate",
+    "layer_height_mm": 0.28,
+    "reference_slice": {
+      "completed": true,
+      "estimated_time": "6h 3m 22s",
+      "estimated_seconds": 21802,
+      "layers": 355,
+      "max_z_mm": 99.32,
+      "gcode_md5_valid": true,
+      "file_bytes": 12454674
+    },
+    "physical_print_tested": false,
+    "geometry_verification": "../../Designs/StackBox-Height3x/Verification.json"
+  },
+  "6": {
+    "parts": [
+      "StackBox_Caja_Height6x.stl",
+      "StackBox_Tapa_Compatible.stl"
+    ],
+    "part_count": 2,
+    "containers": 1,
+    "lids": 1,
+    "box_outer_height_mm": 198.67875847199997,
+    "project": "Projects/StackBox_A1_6x_Pote_y_Tapa.3mf",
+    "sliced_file": "Files/StackBox_A1_6x_Pote_y_Tapa.gcode.3mf",
+    "printer": "Bambu Lab A1",
+    "nozzle_mm": 0.4,
+    "filament": "Bambu PLA Basic",
+    "bed_type": "Textured PEI Plate",
+    "layer_height_mm": 0.28,
+    "reference_slice": {
+      "completed": true,
+      "estimated_time": "10h 40m 1s",
+      "estimated_seconds": 38401,
+      "layers": 710,
+      "max_z_mm": 198.72,
+      "gcode_md5_valid": true,
+      "file_bytes": 23926581
+    },
+    "physical_print_tested": false,
+    "geometry_verification": "../../Designs/StackBox-Height6x/Verification.json"
+  }
+}

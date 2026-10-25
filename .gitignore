@@ -22,5 +22,6 @@ bambu-studio.conf
 
 # Published A1 print plates explicitly include their sliced projects.
 !/PrintPlates/StackBox-Height3x-Height6x/Files/*.gcode.3mf
+!/PrintPlates/StackBox-Pote-y-Tapa/Files/*.gcode.3mf
 Thumbs.db
 .DS_Store
