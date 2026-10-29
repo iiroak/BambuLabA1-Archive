@@ -59,7 +59,7 @@
     "60"
   ],
   "fan_max_speed": [
-    "100"
+    "80"
   ],
   "overhang_fan_speed": [
     "100"
@@ -73,5 +73,5 @@
   "filament_max_volumetric_speed": [
     "6"
   ],
-  "filament_notes": "ELEGOO PLA Marmol con particulas minerales: abrasivo. ELEGOO recomienda boquilla ENDURECIDA de diametro 0.4 mm o mayor, temperatura 190-220 C, cama 35-65 C. No fusionar con Bronze-filled: el comportamiento y cantidad/tamano de particulas pueden diferir. Caudales conservadores no calibrados fisicamente. Perfil para boquilla A1 0.4 mm. Flujo y K requieren calibracion individual."
+  "filament_notes": "ELEGOO PLA Marmol con particulas minerales: abrasivo. ELEGOO recomienda boquilla ENDURECIDA de diametro 0.4 mm o mayor, temperatura 190-220 C, cama 35-65 C. No fusionar con Bronze-filled: el comportamiento y cantidad/tamano de particulas pueden diferir. Caudales conservadores no calibrados fisicamente. Perfil para boquilla A1 0.4 mm. Flujo y K requieren calibracion individual. Contraste 2026-10-29: fan maximo normal 80% basado en Bambu PLA Marble A1 (60-80); overhang a 100% sin cambio. La temperatura 215/210 coincide con usuario de Reddit, pero el flow 0.98 no esta calibrado individualmente."
 }

@@ -20,10 +20,10 @@
     "Bambu Lab A1 0.6 nozzle"
   ],
   "nozzle_temperature_initial_layer": [
-    "215"
+    "220"
   ],
   "nozzle_temperature": [
-    "215"
+    "220"
   ],
   "nozzle_temperature_range_low": [
     "200"
@@ -68,7 +68,7 @@
     "0"
   ],
   "filament_max_volumetric_speed": [
-    "9"
+    "10"
   ],
-  "filament_notes": "Para PLA+ estandar ELEGOO de cualquier color incluido \"Madera\" SI es solo color. No es para PLA Wood con fibras, PLA Marble, PLA Bronze, PLA Silk o PLA-CF. Basado en ficha PLA+ Madera de TodoToner 200-230 C con 215 C recomendado, cama 50-65 C. Los limites de flujo son conservadores y no calibrados por bobina. Perfil para boquilla A1 0.6 mm. Flujo y K requieren calibracion individual."
+  "filament_notes": "Para PLA+ estandar ELEGOO de cualquier color incluido \"Madera\" SI es solo color. No es para PLA Wood con fibras, PLA Marble, PLA Bronze, PLA Silk o PLA-CF. Basado en ficha PLA+ Madera de TodoToner 200-230 C con 215 C recomendado, cama 50-65 C. Los limites de flujo son conservadores y no calibrados por bobina. Perfil para boquilla A1 0.6 mm. Flujo y K requieren calibracion individual. Contraste 2026-10-29: 220 C se respalda en experiencias de A1 compartidas por usuarios, frente a 215 C del distribuidor. Limite volumetrico de 10 mm3/s sigue conservador y SIN calibracion; usar 215 si la torre termica sale mejor. No trasladar perfiles Rapid PLA+."
 }

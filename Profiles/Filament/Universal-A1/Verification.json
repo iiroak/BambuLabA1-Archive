@@ -7,7 +7,7 @@
   "bundle": {
     "path": "Profiles/Filament/Universal-A1/Bambu-A1-Universal-Filaments-18.zip",
     "profiles": 18,
-    "sha256": "2abb91545168c98363322ab05033dd05827c7b18518240f6607dbd00d07fd743"
+    "sha256": "d46c23d0c1fb4dfab2ffb1eb1a0f575438c50243688e9ee74de138878e423742"
   },
   "installation": {
     "bambu_studio_version": "02.08.02.61",

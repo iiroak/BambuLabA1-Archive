@@ -73,5 +73,5 @@
   "filament_max_volumetric_speed": [
     "10"
   ],
-  "filament_notes": "Para eSUN PETG convencional de cualquier color, NO PETG+ HS, PETG Basic, mate ni con fibra. Basado en eSUN PETG oficial 240-260 C, cama 75-90 C, ventilacion recomendada 100 por ciento y velocidades inferiores a 150 mm/s. Ventilacion 40-85 por ciento y caudales son valores iniciales prudentes; calibrar por bobina para maxima calidad. PLA y PETG no comparten este perfil. Perfil para boquilla A1 0.4 mm. Flujo y K requieren calibracion individual."
+  "filament_notes": "eSUN PETG convencional, todos los colores. NO PETG-Basic, PETG+HS, Matte o CF. Ficha actual eSUN PETG: 240-260 C, cama 75-90 C, ventilacion recomendada 100%, velocidades bajo 150 mm/s; las configuraciones comunitarias A1 son variables. Se conserva 250/245 C, cama 80 C, fan 40-85% como compromiso NO validado en esta bobina y 10 mm3/s para diametros 0.4 a 0.8. Primeras capas sin ventilador. El fabricante da 100% fan, distinto del compromiso elegido: comprobar adhesion entre capas y puentes. Flow 0.95 no calibrado por bobina. Contraste 2026-10-29."
 }

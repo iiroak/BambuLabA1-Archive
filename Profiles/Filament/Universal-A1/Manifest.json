@@ -67,7 +67,7 @@
       "family": "eSUN PETG Estandar",
       "nozzle_mm": "0.2",
       "status": "importable",
-      "sha256": "b720d076bae93d6d7acf661db215d0adf97fcceb97c4a543f0dc450b0e4eecdc",
+      "sha256": "22134e3f4459d7efe0e55448db60fb253d851e1f7fcf505a6f4729ec2e863c4c",
       "inherits": "Generic PETG @BBL A1 0.2 nozzle",
       "machine": "Bambu Lab A1 0.2 nozzle",
       "max_volumetric_speed_mm3_s": "1"
@@ -79,7 +79,7 @@
       "family": "eSUN PETG Estandar",
       "nozzle_mm": "0.4",
       "status": "importable",
-      "sha256": "be718a0554364b8026381c0cbd344f49b685f399a6d43a49d9a724657d56442d",
+      "sha256": "8f03507919c8f6e9b80f9fbe6ed6143285649eef38aac577f1cc7077f764f2af",
       "inherits": "Generic PETG @BBL A1",
       "machine": "Bambu Lab A1 0.4 nozzle",
       "max_volumetric_speed_mm3_s": "10"
@@ -91,7 +91,7 @@
       "family": "eSUN PETG Estandar",
       "nozzle_mm": "0.6",
       "status": "importable",
-      "sha256": "8bf24744ebecc49685e5d64dafee7e7831fb23fc9391273045c06ee82042c38a",
+      "sha256": "31878acb8a4391b0c3f5ac68b0960850161a6f3989c2c5b2884525fa9e6dd03f",
       "inherits": "Generic PETG @BBL A1",
       "machine": "Bambu Lab A1 0.6 nozzle",
       "max_volumetric_speed_mm3_s": "10"
@@ -103,10 +103,10 @@
       "family": "eSUN PETG Estandar",
       "nozzle_mm": "0.8",
       "status": "importable",
-      "sha256": "56f71fde4e47d854cfc6b1a35abcd4b0865242e2d6863dee7da4a99497951d0c",
+      "sha256": "f524756a23448b4ab682babf7f610c21efd3e85256cdd9b8fafecc4599dbd4c4",
       "inherits": "Generic PETG @BBL A1",
       "machine": "Bambu Lab A1 0.8 nozzle",
-      "max_volumetric_speed_mm3_s": "13"
+      "max_volumetric_speed_mm3_s": "10"
     },
     {
       "path": "Nozzle-0.2/ELEGOO_PLA_Plus_A1_0_2.json",
@@ -127,10 +127,10 @@
       "family": "ELEGOO PLA+ Estandar",
       "nozzle_mm": "0.4",
       "status": "importable",
-      "sha256": "79e92b2c75c8b4afd06baa9920b4536a7f435a2bb7b6f5cd43c02e1547eaf828",
+      "sha256": "75c252868731993dfe7cf44b61f0d674e0209702b11af8dbd9cf42a687811ed7",
       "inherits": "Generic PLA @BBL A1",
       "machine": "Bambu Lab A1 0.4 nozzle",
-      "max_volumetric_speed_mm3_s": "7"
+      "max_volumetric_speed_mm3_s": "10"
     },
     {
       "path": "Nozzle-0.6/ELEGOO_PLA_Plus_A1_0_6.json",
@@ -139,10 +139,10 @@
       "family": "ELEGOO PLA+ Estandar",
       "nozzle_mm": "0.6",
       "status": "importable",
-      "sha256": "bab584fd481ac8f7ed837077feab55eb9df4e4d60e39a86c7e184990ca41b7af",
+      "sha256": "3594098c841bdd8fcb638c41e9fca612e43aa4550b6605d42990ac63323c3d54",
       "inherits": "Generic PLA @BBL A1",
       "machine": "Bambu Lab A1 0.6 nozzle",
-      "max_volumetric_speed_mm3_s": "9"
+      "max_volumetric_speed_mm3_s": "10"
     },
     {
       "path": "Nozzle-0.8/ELEGOO_PLA_Plus_A1_0_8.json",
@@ -151,7 +151,7 @@
       "family": "ELEGOO PLA+ Estandar",
       "nozzle_mm": "0.8",
       "status": "importable",
-      "sha256": "5cab344f4467c3624b97bbde2d3f2557ae5ef1c183516b0d44f91d4900b21949",
+      "sha256": "0719c6c9ed1dd19103bb21a3f5fb04527485fef3563e755fbce105544ec9b1c7",
       "inherits": "Generic PLA @BBL A1",
       "machine": "Bambu Lab A1 0.8 nozzle",
       "max_volumetric_speed_mm3_s": "10"
@@ -175,7 +175,7 @@
       "family": "ELEGOO PLA Marmol Mineral",
       "nozzle_mm": "0.4",
       "status": "importable",
-      "sha256": "4bb483fa7ae937685349c5a16873a0d9cad3344c3520e82a7e76c2239720ee08",
+      "sha256": "77a3ca05ca46df2f80b0ab9fdd36e8c93734a9c0c1ef32c52564e2d6c0597216",
       "inherits": "Generic PLA @BBL A1",
       "machine": "Bambu Lab A1 0.4 nozzle",
       "max_volumetric_speed_mm3_s": "6"
@@ -187,7 +187,7 @@
       "family": "ELEGOO PLA Marmol Mineral",
       "nozzle_mm": "0.6",
       "status": "importable",
-      "sha256": "90c60b970991f6395bdbd315922a81fbd70af0d6895df3d73dffa9aa6d832bae",
+      "sha256": "cb778924f4c9bde7d2d455f84186d5eddeca5fb986b2d2e62c2283326b7c893d",
       "inherits": "Generic PLA @BBL A1",
       "machine": "Bambu Lab A1 0.6 nozzle",
       "max_volumetric_speed_mm3_s": "8"
@@ -199,7 +199,7 @@
       "family": "ELEGOO PLA Marmol Mineral",
       "nozzle_mm": "0.8",
       "status": "importable",
-      "sha256": "ff906c5a89b9e5f38abb315acb54a2418f97e14c19fe25b1e0836bdef51c5b26",
+      "sha256": "6fb224fcf5f806fd542d2a40a0e80c4a68f8568028209ecb26724767a3c24307",
       "inherits": "Generic PLA @BBL A1",
       "machine": "Bambu Lab A1 0.8 nozzle",
       "max_volumetric_speed_mm3_s": "10"
@@ -252,5 +252,10 @@
       "machine": "Bambu Lab A1 0.8 nozzle",
       "max_volumetric_speed_mm3_s": "10"
     }
-  ]
+  ],
+  "revision": "contrasted-2026-10-29",
+  "source_package": {
+    "filename": "Bambu_A1_Perfiles_Contrastados_2026_10_29.zip",
+    "sha256": "c451107f95b43b651ae76ea34f980bdb64454addbeec645dfd67bbbbd43f11b4"
+  }
 }

@@ -1,0 +1,126 @@
+{
+  "fecha": "2026-10-29",
+  "version": "02.08.00.05",
+  "perfiles": [
+    {
+      "archivo": "ADVERTENCIA_NO_USAR_ABRASIVOS_0_2/ELEGOO_PLA_Bronce_Cobre_A1_0_2.json",
+      "name": "ELEGOO PLA Bronce-Cobre @BBL A1 0.2",
+      "recomendado": false,
+      "sha256": "deff6b73ec89f6063c3067facbf43c8b58a22c55721a94b091f6370467f38311"
+    },
+    {
+      "archivo": "ADVERTENCIA_NO_USAR_ABRASIVOS_0_2/ELEGOO_PLA_Marmol_A1_0_2.json",
+      "name": "ELEGOO PLA Marmol Mineral @BBL A1 0.2",
+      "recomendado": false,
+      "sha256": "a8fcdca2de0950944e2b5b0f11c228984deb38798cfad92c65b2def11e1bc61f"
+    },
+    {
+      "archivo": "boquilla_0_2/Creality_CR-PETG_A1_0_2.json",
+      "name": "Creality CR-PETG Estandar @BBL A1 0.2",
+      "recomendado": true,
+      "sha256": "34b6fdd26302bb64d0569f2e6bebc6e4da83ed677f657f8ba0593886bd1c05a3"
+    },
+    {
+      "archivo": "boquilla_0_2/ELEGOO_PLA_Plus_A1_0_2.json",
+      "name": "ELEGOO PLA+ Estandar @BBL A1 0.2",
+      "recomendado": true,
+      "sha256": "4f4d70230a9226604e9084a8230aecac33ad965be746336c475c7fba3987fc7e"
+    },
+    {
+      "archivo": "boquilla_0_2/eSUN_PETG_A1_0_2.json",
+      "name": "eSUN PETG Estandar @BBL A1 0.2",
+      "recomendado": true,
+      "sha256": "22134e3f4459d7efe0e55448db60fb253d851e1f7fcf505a6f4729ec2e863c4c"
+    },
+    {
+      "archivo": "boquilla_0_4/Creality_CR-PETG_A1_0_4.json",
+      "name": "Creality CR-PETG Estandar @BBL A1 0.4",
+      "recomendado": true,
+      "sha256": "99c21b47e98b712da175f89cb217a0459890c12368c8b522925e5f632c4888bd"
+    },
+    {
+      "archivo": "boquilla_0_4/ELEGOO_PLA_Bronce_Cobre_A1_0_4.json",
+      "name": "ELEGOO PLA Bronce-Cobre @BBL A1 0.4",
+      "recomendado": true,
+      "sha256": "cdc9eee78b42fc7a4c4690b77b594f773e6285a22110c1fbaa9db028e5db8aaa"
+    },
+    {
+      "archivo": "boquilla_0_4/ELEGOO_PLA_Marmol_A1_0_4.json",
+      "name": "ELEGOO PLA Marmol Mineral @BBL A1 0.4",
+      "recomendado": true,
+      "sha256": "77a3ca05ca46df2f80b0ab9fdd36e8c93734a9c0c1ef32c52564e2d6c0597216"
+    },
+    {
+      "archivo": "boquilla_0_4/ELEGOO_PLA_Plus_A1_0_4.json",
+      "name": "ELEGOO PLA+ Estandar @BBL A1 0.4",
+      "recomendado": true,
+      "sha256": "75c252868731993dfe7cf44b61f0d674e0209702b11af8dbd9cf42a687811ed7"
+    },
+    {
+      "archivo": "boquilla_0_4/eSUN_PETG_A1_0_4.json",
+      "name": "eSUN PETG Estandar @BBL A1 0.4",
+      "recomendado": true,
+      "sha256": "8f03507919c8f6e9b80f9fbe6ed6143285649eef38aac577f1cc7077f764f2af"
+    },
+    {
+      "archivo": "boquilla_0_6/Creality_CR-PETG_A1_0_6.json",
+      "name": "Creality CR-PETG Estandar @BBL A1 0.6",
+      "recomendado": true,
+      "sha256": "a8027fac1ebedda1c1e4bdddbe33ce123cad0ec575978954221b6a5d32242421"
+    },
+    {
+      "archivo": "boquilla_0_6/ELEGOO_PLA_Bronce_Cobre_A1_0_6.json",
+      "name": "ELEGOO PLA Bronce-Cobre @BBL A1 0.6",
+      "recomendado": true,
+      "sha256": "7dc79511e0f052232c89a8cc7b67d6cc5388e5f816d610683fa05de35be924e1"
+    },
+    {
+      "archivo": "boquilla_0_6/ELEGOO_PLA_Marmol_A1_0_6.json",
+      "name": "ELEGOO PLA Marmol Mineral @BBL A1 0.6",
+      "recomendado": true,
+      "sha256": "cb778924f4c9bde7d2d455f84186d5eddeca5fb986b2d2e62c2283326b7c893d"
+    },
+    {
+      "archivo": "boquilla_0_6/ELEGOO_PLA_Plus_A1_0_6.json",
+      "name": "ELEGOO PLA+ Estandar @BBL A1 0.6",
+      "recomendado": true,
+      "sha256": "3594098c841bdd8fcb638c41e9fca612e43aa4550b6605d42990ac63323c3d54"
+    },
+    {
+      "archivo": "boquilla_0_6/eSUN_PETG_A1_0_6.json",
+      "name": "eSUN PETG Estandar @BBL A1 0.6",
+      "recomendado": true,
+      "sha256": "31878acb8a4391b0c3f5ac68b0960850161a6f3989c2c5b2884525fa9e6dd03f"
+    },
+    {
+      "archivo": "boquilla_0_8/Creality_CR-PETG_A1_0_8.json",
+      "name": "Creality CR-PETG Estandar @BBL A1 0.8",
+      "recomendado": true,
+      "sha256": "a2518b91b216ded9794fc021f9d9cfab798eeac192665532576e601de8b89f5a"
+    },
+    {
+      "archivo": "boquilla_0_8/ELEGOO_PLA_Bronce_Cobre_A1_0_8.json",
+      "name": "ELEGOO PLA Bronce-Cobre @BBL A1 0.8",
+      "recomendado": true,
+      "sha256": "1c87dc72bc8b72c4b8cb592808f3a7dea932073e00d85e72bda4e8732a19aada"
+    },
+    {
+      "archivo": "boquilla_0_8/ELEGOO_PLA_Marmol_A1_0_8.json",
+      "name": "ELEGOO PLA Marmol Mineral @BBL A1 0.8",
+      "recomendado": true,
+      "sha256": "6fb224fcf5f806fd542d2a40a0e80c4a68f8568028209ecb26724767a3c24307"
+    },
+    {
+      "archivo": "boquilla_0_8/ELEGOO_PLA_Plus_A1_0_8.json",
+      "name": "ELEGOO PLA+ Estandar @BBL A1 0.8",
+      "recomendado": true,
+      "sha256": "0719c6c9ed1dd19103bb21a3f5fb04527485fef3563e755fbce105544ec9b1c7"
+    },
+    {
+      "archivo": "boquilla_0_8/eSUN_PETG_A1_0_8.json",
+      "name": "eSUN PETG Estandar @BBL A1 0.8",
+      "recomendado": true,
+      "sha256": "f524756a23448b4ab682babf7f610c21efd3e85256cdd9b8fafecc4599dbd4c4"
+    }
+  ]
+}

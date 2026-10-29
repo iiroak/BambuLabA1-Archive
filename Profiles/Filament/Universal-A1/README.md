@@ -6,8 +6,8 @@ representan formulaciones; el color se elige en el proyecto o en el AMS Lite.
 | Familia | 0,2 mm | 0,4 mm | 0,6 mm | 0,8 mm |
 | --- | ---: | ---: | ---: | ---: |
 | Creality CR-PETG convencional | 1 | 10 | 10 | 10 |
-| eSUN PETG convencional | 1 | 10 | 10 | 13 |
-| ELEGOO PLA+ convencional | 1,6 | 7 | 9 | 10 |
+| eSUN PETG convencional | 1 | 10 | 10 | 10 |
+| ELEGOO PLA+ convencional | 1,6 | 10 | 10 | 10 |
 | ELEGOO PLA Mármol Mineral | — | 6 | 8 | 10 |
 | ELEGOO PLA Bronce-Cobre | — | 5,5 | 8 | 10 |
 
@@ -15,6 +15,13 @@ Los números son límites volumétricos iniciales en mm³/s, tomados del paquete
 recibido el 29 de octubre de 2026. La instalación y la herencia se verifican por
 software. La calibración de temperatura, flujo y dinámica/K corresponde a cada
 bobina y combinación de boquilla; esta incorporación no añade pruebas físicas.
+
+La revisión contrastada del 29 de octubre actualiza diez archivos, siete con
+cambios de impresión: PLA+ de 0,4–0,8 mm pasa a 220 °C, los límites de PLA+ de
+0,4 y 0,6 mm pasan a 10 mm³/s, eSUN PETG de 0,8 mm baja a 10 mm³/s y Mármol
+de 0,4–0,8 mm limita su ventilador normal al 80 %. Creality, Bronce-Cobre y los
+ajustes de impresión de 0,2 mm conservan sus valores. Los cambios exactos están
+en [Changes-2026-10-29.json](Changes-2026-10-29.json).
 
 ## Archivos e instalación
 
@@ -71,7 +78,11 @@ permanecen disponibles en Bambu Studio.
 
 El paquete fue aportado por el mantenedor. Se guardan las
 [notas originales](Sources/Original-Notes.md) y su
-[manifiesto original](Sources/Original-Manifest.json). Los presets de Bambu Lab
+[manifiesto original](Sources/Original-Manifest.json), además de la
+[auditoría y fuentes de la revisión contrastada](Sources/Audit-and-Sources-2026-10-29.md)
+y su [manifiesto recibido](Sources/Contrasted-Manifest-2026-10-29.json).
+La revisión inicial queda registrada en el commit `7333821`.
+Los presets de Bambu Lab
 referenciados por `inherits` se obtienen de Bambu Studio y conservan su atribución.
 Las notas de origen contienen las fuentes usadas para proponer los parámetros;
 esta incorporación valida los archivos y la instalación, sin certificar esas
