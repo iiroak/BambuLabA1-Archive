@@ -3,6 +3,22 @@
 Los diseños de almacenamiento están en `Designs/Storage/`; las mejoras de la
 impresora están en `Designs/A1-Modifications/`.
 
+## Verify-Filament-Profiles.py
+
+Comprueba los hashes, metadatos y compatibilidad de los perfiles de
+[filamento A1](../Profiles/Filament/Universal-A1/). Puede reconstruir el ZIP de
+18 presets importables y comparar sus valores con los instalados en Bambu
+Studio. Las dos referencias abrasivas de 0,2 mm quedan excluidas del ZIP.
+Python 3.10 o posterior, sin dependencias adicionales.
+
+```sh
+python Scripts/Verify-Filament-Profiles.py --bundle
+python Scripts/Verify-Filament-Profiles.py --installed --report LocalExports/Filament-Verification.json
+```
+
+La auditoría de instalación es de solo lectura y resuelve los perfiles padre.
+No exporta la configuración global ni los identificadores de la cuenta.
+
 ## Resize-StackBox.py
 
 Aplica la receta archivada al 3MF original y genera un 3MF y dos STL. Requiere

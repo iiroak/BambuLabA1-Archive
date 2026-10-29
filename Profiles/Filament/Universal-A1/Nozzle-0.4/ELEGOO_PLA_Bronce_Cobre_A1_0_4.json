@@ -1,0 +1,74 @@
+{
+  "type": "filament",
+  "version": "02.08.00.05",
+  "name": "ELEGOO PLA Bronce-Cobre @BBL A1 0.4",
+  "inherits": "Generic PLA @BBL A1",
+  "from": "User",
+  "filament_settings_id": [
+    "ELEGOO PLA Bronce-Cobre @BBL A1 0.4"
+  ],
+  "filament_vendor": [
+    "ELEGOO"
+  ],
+  "filament_type": [
+    "PLA"
+  ],
+  "filament_diameter": [
+    "1.75"
+  ],
+  "compatible_printers": [
+    "Bambu Lab A1 0.4 nozzle"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "215"
+  ],
+  "nozzle_temperature": [
+    "210"
+  ],
+  "nozzle_temperature_range_low": [
+    "190"
+  ],
+  "nozzle_temperature_range_high": [
+    "220"
+  ],
+  "textured_plate_temp_initial_layer": [
+    "60"
+  ],
+  "textured_plate_temp": [
+    "55"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "60"
+  ],
+  "hot_plate_temp": [
+    "55"
+  ],
+  "eng_plate_temp_initial_layer": [
+    "60"
+  ],
+  "eng_plate_temp": [
+    "55"
+  ],
+  "filament_flow_ratio": [
+    "0.98"
+  ],
+  "fan_min_speed": [
+    "60"
+  ],
+  "fan_max_speed": [
+    "100"
+  ],
+  "overhang_fan_speed": [
+    "100"
+  ],
+  "close_fan_the_first_x_layers": [
+    "3"
+  ],
+  "additional_cooling_fan_speed": [
+    "0"
+  ],
+  "filament_max_volumetric_speed": [
+    "5.5"
+  ],
+  "filament_notes": "ELEGOO PLA Bronze-filled, bronce con polvo de cobre, abrasivo. Requiere boquilla ENDURECIDA para evitar desgaste. Recomendacion practica 0.4 mm o mayor, ideal 0.6-0.8 por riesgo de atascos. Temperaturas conservadoras basadas en PLA ELEGOO 190-220 C y el perfil previo de bronce. Ajustar sobre prueba real; no fusionar con PLA Marmol. Perfil para boquilla A1 0.4 mm. Flujo y K requieren calibracion individual."
+}

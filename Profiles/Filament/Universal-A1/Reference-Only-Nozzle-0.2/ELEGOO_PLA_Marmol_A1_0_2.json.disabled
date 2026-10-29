@@ -1,0 +1,75 @@
+{
+  "type": "filament",
+  "version": "02.08.00.05",
+  "name": "ELEGOO PLA Marmol Mineral @BBL A1 0.2",
+  "inherits": "Generic PLA @BBL A1 0.2 nozzle",
+  "from": "User",
+  "filament_settings_id": [
+    "ELEGOO PLA Marmol Mineral @BBL A1 0.2"
+  ],
+  "filament_vendor": [
+    "ELEGOO"
+  ],
+  "filament_type": [
+    "PLA"
+  ],
+  "filament_diameter": [
+    "1.75"
+  ],
+  "compatible_printers": [],
+  "nozzle_temperature_initial_layer": [
+    "215"
+  ],
+  "nozzle_temperature": [
+    "210"
+  ],
+  "nozzle_temperature_range_low": [
+    "190"
+  ],
+  "nozzle_temperature_range_high": [
+    "220"
+  ],
+  "textured_plate_temp_initial_layer": [
+    "60"
+  ],
+  "textured_plate_temp": [
+    "55"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "60"
+  ],
+  "hot_plate_temp": [
+    "55"
+  ],
+  "eng_plate_temp_initial_layer": [
+    "60"
+  ],
+  "eng_plate_temp": [
+    "55"
+  ],
+  "filament_flow_ratio": [
+    "0.98"
+  ],
+  "filament_density": [
+    "1.23"
+  ],
+  "fan_min_speed": [
+    "60"
+  ],
+  "fan_max_speed": [
+    "80"
+  ],
+  "overhang_fan_speed": [
+    "100"
+  ],
+  "close_fan_the_first_x_layers": [
+    "3"
+  ],
+  "additional_cooling_fan_speed": [
+    "0"
+  ],
+  "filament_max_volumetric_speed": [
+    "0.8"
+  ],
+  "filament_notes": "ELEGOO PLA Marmol con particulas minerales: abrasivo. ELEGOO recomienda boquilla ENDURECIDA de diametro 0.4 mm o mayor, temperatura 190-220 C, cama 35-65 C. No fusionar con Bronze-filled: el comportamiento y cantidad/tamano de particulas pueden diferir. Caudales conservadores no calibrados fisicamente. Perfil para boquilla A1 0.2 mm. NO RECOMENDADO, INACTIVO: ELEGOO indica >=0.4 mm endurecida para Marmol; por analogia no se recomienda Bronze-filled en 0.2. Archivo de referencia NO IMPORTAR: compatible_printers vacio a proposito. No cambiar esta restriccion sin consultar ficha de filamento y boquilla. Flujo y K requieren calibracion individual."
+}

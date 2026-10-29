@@ -1,0 +1,77 @@
+{
+  "type": "filament",
+  "version": "02.08.00.05",
+  "name": "eSUN PETG Estandar @BBL A1 0.6",
+  "inherits": "Generic PETG @BBL A1",
+  "from": "User",
+  "filament_settings_id": [
+    "eSUN PETG Estandar @BBL A1 0.6"
+  ],
+  "filament_vendor": [
+    "eSUN"
+  ],
+  "filament_type": [
+    "PETG"
+  ],
+  "filament_diameter": [
+    "1.75"
+  ],
+  "compatible_printers": [
+    "Bambu Lab A1 0.6 nozzle"
+  ],
+  "nozzle_temperature_initial_layer": [
+    "250"
+  ],
+  "nozzle_temperature": [
+    "245"
+  ],
+  "nozzle_temperature_range_low": [
+    "230"
+  ],
+  "nozzle_temperature_range_high": [
+    "260"
+  ],
+  "textured_plate_temp_initial_layer": [
+    "80"
+  ],
+  "textured_plate_temp": [
+    "80"
+  ],
+  "hot_plate_temp_initial_layer": [
+    "80"
+  ],
+  "hot_plate_temp": [
+    "75"
+  ],
+  "eng_plate_temp_initial_layer": [
+    "80"
+  ],
+  "eng_plate_temp": [
+    "75"
+  ],
+  "filament_flow_ratio": [
+    "0.95"
+  ],
+  "filament_density": [
+    "1.27"
+  ],
+  "fan_min_speed": [
+    "40"
+  ],
+  "fan_max_speed": [
+    "85"
+  ],
+  "overhang_fan_speed": [
+    "100"
+  ],
+  "close_fan_the_first_x_layers": [
+    "3"
+  ],
+  "additional_cooling_fan_speed": [
+    "0"
+  ],
+  "filament_max_volumetric_speed": [
+    "10"
+  ],
+  "filament_notes": "Para eSUN PETG convencional de cualquier color, NO PETG+ HS, PETG Basic, mate ni con fibra. Basado en eSUN PETG oficial 240-260 C, cama 75-90 C, ventilacion recomendada 100 por ciento y velocidades inferiores a 150 mm/s. Ventilacion 40-85 por ciento y caudales son valores iniciales prudentes; calibrar por bobina para maxima calidad. PLA y PETG no comparten este perfil. Perfil para boquilla A1 0.6 mm. Flujo y K requieren calibracion individual."
+}

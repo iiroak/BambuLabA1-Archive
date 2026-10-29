@@ -31,7 +31,13 @@ ordenado y compartir lo que pueda servirle a alguien más.
 Incluye los archivos ya laminados para **A1, boquilla de 0,4 mm, PLA Basic y PEI texturizado**,
 además de los proyectos editables.
 
-## Organización
+## Perfiles de filamento
+
+[18 presets por familia y boquilla para la A1](Profiles/Filament/Universal-A1/):
+Creality CR-PETG, eSUN PETG, ELEGOO PLA+, Mármol y Bronce-Cobre. Incluyen ZIP
+importable, hashes y comprobación de los valores instalados en Bambu Studio.
+
+## Organización del archivo
 
 ```text
 Designs/
