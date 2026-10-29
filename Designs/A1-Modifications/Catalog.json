@@ -6,31 +6,31 @@
       "original_filename": "A1+bed+dragchain+RV01.3mf",
       "category": "Cable-Chains/Bed-Dragchain-2026",
       "original_sha256": "0164924ef7a896debab91eb00ca79076fcfcdab28ea43b439c472e70989e2b59",
-      "original_stored_at": "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Files/A1+bed+dragchain+RV01.3mf",
+      "original_stored_at": "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/A1+bed+dragchain+RV01_Original.3mf",
       "active_project": "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Files/A1+bed+dragchain+RV01.3mf",
-      "active_sha256": "0164924ef7a896debab91eb00ca79076fcfcdab28ea43b439c472e70989e2b59",
+      "active_sha256": "3e8b357ef47626bfa6e4aea60abb51900ebf51bd7a437cfbf189f753a63be60b",
       "original_title": "A1 Bed Drag chain / Cable Chain",
       "designer": "Kar Fai",
       "declared_license": "Standard Digital File License",
       "original_profile_user": "Kar Fai",
       "original_printer_profile": "Bambu Lab A1",
       "build_items": 42,
-      "note": "Archivo original archivado sin modificaciones."
+      "note": "Conjunto completo actualizado con la pieza plana 2026 del archivo suelto; el original con el soporte antiguo está en Sources."
     },
     {
       "original_filename": "obj_42+bed+mount.3mf",
       "category": "Cable-Chains/Bed-Dragchain-2026",
       "original_sha256": "9671025f6ada69c6bee01bf7811a6e0f56cad02db7317943331cfe0792ecad93",
-      "original_stored_at": "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Pre2026.3mf",
+      "original_stored_at": "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Provided2026.3mf",
       "active_project": "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Files/obj_42+bed+mount.3mf",
-      "active_sha256": "4f453295f8107f897cd21118cfae9d0d1fbdcd8b71e90fb83a254e8af451f604",
+      "active_sha256": "9671025f6ada69c6bee01bf7811a6e0f56cad02db7317943331cfe0792ecad93",
       "original_title": "A1 Bed Drag chain / Cable Chain",
       "designer": "Kar Fai",
       "declared_license": "Standard Digital File License",
       "original_profile_user": "Minalai",
       "original_printer_profile": "Bambu Lab A1",
       "build_items": 1,
-      "note": "Original conservado; el proyecto activo contiene el soporte revisado de RV01."
+      "note": "Archivo suelto plano 2026 aportado; activo idéntico al original. Es el origen del conector actualizado en el conjunto RV01."
     },
     {
       "original_filename": "A1+side+drag+chain+V2.0.3mf",
@@ -107,5 +107,6 @@
       "build_items": 1,
       "note": "Archivo original archivado sin modificaciones."
     }
-  ]
+  ],
+  "bed_mount_2026_source": "The standalone obj_42+bed+mount.3mf supplied by the maintainer; not the original bulky mount from RV01."
 }

@@ -1,33 +1,28 @@
 {
-  "replacement_matches_RV01_mesh": true,
-  "source_object_id": 50,
-  "single_object": true,
-  "watertight": true,
-  "winding_consistent": true,
-  "single_connected_solid": true,
-  "scaled": false,
-  "original_triangles": 17610,
-  "replacement_triangles": 21186,
+  "source": "Supplied standalone FLAT 2026 connector, obj_42+bed+mount.3mf",
+  "source_sha256": "9671025f6ada69c6bee01bf7811a6e0f56cad02db7317943331cfe0792ecad93",
+  "source_standalone_restored_byte_for_byte": true,
+  "updated_target": "Complete A1+bed+dragchain+RV01.3mf assembly",
+  "updated_object_id": 50,
+  "assembly_part_count": 42,
+  "other_41_parts_preserved": true,
+  "all_build_placements_preserved": true,
+  "all_other_model_files_preserved_byte_for_byte": true,
+  "printer_profile_preserved": true,
+  "old_bulky_mount_triangles": 21186,
+  "new_flat_mount_triangles": 17610,
+  "replacement_faces_identical_to_supplied_flat_source": true,
+  "maximum_vertex_difference_after_rigid_alignment_mm": 4.4919090669282014e-10,
+  "flat_source_volume_mm3": 16509.07994694247,
+  "replacement_volume_mm3": 16509.07994694321,
   "dimensions_xyz_mm": [
     72.75,
     29.5,
-    43.197815
+    43.197815000000006
   ],
-  "placed_bounds_mm": [
-    [
-      91.625,
-      113.25,
-      0.0
-    ],
-    [
-      164.375,
-      142.75,
-      43.197815
-    ]
-  ],
-  "old_volume_mm3": 16509.079946942475,
-  "new_volume_mm3": 17435.245145125464,
-  "printer_profile_preserved": true,
+  "watertight": true,
+  "winding_consistent": true,
   "physical_fit_tested": false,
-  "native_Bambu_import_export_verified": true
+  "complete_assembly_opened_and_exported_by_Bambu_Studio": true,
+  "wrong_direction_rejected_before_writing": true
 }

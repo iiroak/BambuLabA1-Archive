@@ -1,52 +1,62 @@
-# Cadena de la cama y conector A1 2026
+# Cadena de la cama · conector plano A1 2026
 
-Conjunto de cadena portacables de la cama y soporte individual actualizado con la revisión del conector seleccionada para la A1 2026.
+La pieza **plana para 2026 es el archivo suelto `obj_42+bed+mount.3mf`**
+aportado por el mantenedor. El conjunto completo RV01 se ha actualizado para
+usar exactamente esa geometría, sustituyendo su conector antiguo.
 
-## Archivos
+## Archivos activos
 
-- [A1+bed+dragchain+RV01.3mf](Files/A1+bed+dragchain+RV01.3mf)
-- [obj_42+bed+mount.3mf](Files/obj_42+bed+mount.3mf)
+| Archivo | Contenido |
+| --- | --- |
+| [obj_42+bed+mount.3mf](Files/obj_42+bed+mount.3mf) | Conector plano 2026 original aportado, restaurado sin cambiar sus bytes |
+| [A1+bed+dragchain+RV01.3mf](Files/A1+bed+dragchain+RV01.3mf) | Conjunto completo de 42 objetos, con el conector plano 2026 en lugar del antiguo |
+| [Bed-Mount-A1-2026.stl](Files/Bed-Mount-A1-2026.stl) | STL exportado del conector plano aportado |
 
-![Vista previa del proyecto](Preview.png)
+## Conector plano 2026
 
-## Conector 2026 actualizado
+![Conector plano 2026 aportado por el mantenedor](Preview.png)
 
-El proyecto activo **[obj_42+bed+mount.3mf](Files/obj_42+bed+mount.3mf)** contiene
-la malla `bed mount test 03 (0.325).stl`, objeto 50 del conjunto RV01. Sustituye
-la pieza antigua; el proyecto individual continúa teniendo **un solo objeto**.
+La pieza publicada corresponde a la malla del archivo suelto: **8.803 vértices
+y 17.610 triángulos**. Su SHA-256 original es
+`9671025f6ada69c6bee01bf7811a6e0f56cad02db7317943331cfe0792ecad93`.
 
-- Se aplicó la orientación del conjunto RV01 y se centró la pieza en la posición original.
-- Dimensiones conservadas: **72,75 × 29,50 × 43,20 mm**, sin escalar.
-- Malla anterior: 17.610 triángulos; malla revisada: 21.186 triángulos.
-- Malla cerrada, un sólido conectado y perfil original A1 conservado.
-- Importación y exportación comprobadas con Bambu Studio; ajuste físico pendiente.
+## Conjunto RV01 actualizado
 
-También se incluye el [STL actualizado](Files/Bed-Mount-A1-2026.stl), el
-[registro del reemplazo](Replacement.json) y la [verificación](Verification.json).
-El [proyecto anterior](Sources/obj_42+bed+mount_Pre2026.3mf) queda identificado
-como referencia previa, separado de los archivos activos.
+![Conjunto completo con el conector plano 2026](AssemblyPreview.png)
 
-Para reproducir el cambio desde la raíz del repositorio:
+- Se sustituyó únicamente el soporte antiguo del objeto 50.
+- La malla plana reemplaza a la antigua de 21.186 triángulos.
+- Los otros 41 objetos y todas las posiciones de impresión se conservan.
+- La pieza plana se reorientó de forma rígida dentro del conjunto, sin escalarla.
+- La geometría resultante coincide con el archivo suelto aportado.
+- El conjunto fue abierto y exportado correctamente con Bambu Studio.
+
+Las dimensiones exteriores del soporte son **72,75 × 29,50 × 43,20 mm**.
+La identificación de la versión 2026 corresponde al mantenedor; el ajuste
+físico permanece pendiente de prueba.
+
+## Referencias de origen
+
+- [Archivo suelto plano 2026 aportado](Sources/obj_42+bed+mount_Provided2026.3mf).
+- [Conjunto RV01 original con el conector antiguo](Sources/A1+bed+dragchain+RV01_Original.3mf).
+- [Registro de sustitución](Replacement.json) y [verificación](Verification.json).
+- [Sumas SHA-256](SHA256SUMS.txt).
+
+## Reproducir el cambio
+
+El orden de los argumentos es **pieza plana suelta como origen, conjunto
+completo original como destino**. El script rechaza la operación inversa.
 
 ```sh
-python Scripts/Update-Bed-Mount-2026.py "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Files/A1+bed+dragchain+RV01.3mf" "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Pre2026.3mf" --output LocalExports/Bed-Mount-2026.3mf
+python Scripts/Update-Bed-Mount-2026.py "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Provided2026.3mf" "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/A1+bed+dragchain+RV01_Original.3mf" --output LocalExports/Bed-Dragchain-Flat-2026.3mf
 ```
 
-La identificación de esta revisión para la A1 2026 procede del mantenedor.
+## Perfiles guardados y autoría
 
-## Perfiles guardados
+Se conservan los perfiles originales A1, boquilla de 0,4 mm y capas de 0,2 mm.
+El archivo suelto conserva su perfil Generic PLA; el conjunto mantiene su
+configuración original. Son proyectos editables y se deben laminar con los
+ajustes correspondientes antes de imprimir.
 
-| Archivo | Impresora del proyecto | Material | Capa |
-| --- | --- | --- | --- |
-| A1+bed+dragchain+RV01.3mf | Bambu Lab A1 | Bambu PLA Basic @BBL A1, Generic PLA @BBL A1 | 0.2 mm |
-| obj_42+bed+mount.3mf | Bambu Lab A1 | Generic PLA @BBL A1 | 0.2 mm |
-
-Estos datos describen los perfiles guardados en los archivos aportados.
-Los modelos se archivan como proyectos 3MF editables, con sus ajustes y datos
-de impresión. La compatibilidad física de estas mejoras con cada unidad
-de impresora permanece sin probar en este archivo.
-
-## Autoría y procedencia
-
-Consulta [Attribution.md](Attribution.md) y [SHA256SUMS.txt](SHA256SUMS.txt).
-Importado el **29 de octubre de 2026**.
+Diseño original de **Kar Fai**. Los detalles de procedencia, perfiles y licencia
+se recogen en [Attribution.md](Attribution.md).

@@ -51,15 +51,14 @@ los renders y el G-code ya laminado para A1 / 0,4 mm / PLA Basic / PEI texturiza
 
 ## Update-Bed-Mount-2026.py
 
-Sustituye la malla del soporte individual antiguo por `bed mount test 03 (0.325).stl`
-del conjunto RV01. Aplica la orientación del conjunto y conserva las dimensiones,
-la posición y el perfil del proyecto individual. Requiere Python 3.10 o posterior,
-sin paquetes adicionales.
+Usa el **archivo suelto plano 2026** para sustituir el soporte antiguo dentro
+del **conjunto completo RV01**. Conserva los otros objetos, sus posiciones y
+el perfil del conjunto. Python 3.10 o posterior, sin paquetes adicionales.
 
 ```sh
-python Scripts/Update-Bed-Mount-2026.py "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Files/A1+bed+dragchain+RV01.3mf" "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Pre2026.3mf" --output LocalExports/Bed-Mount-2026.3mf
+python Scripts/Update-Bed-Mount-2026.py "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Provided2026.3mf" "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/A1+bed+dragchain+RV01_Original.3mf" --output LocalExports/Bed-Dragchain-Flat-2026.3mf
 ```
 
-La salida debe ser un archivo nuevo. El script genera el 3MF editable y un
-registro `.replacement.json`; los proyectos publicados incluyen una vista
-previa generada de la geometría revisada.
+La salida debe ser nueva. El primer argumento es la pieza plana y el segundo
+el conjunto original. El script rechaza el orden inverso y registra el cambio
+en `.replacement.json`.
