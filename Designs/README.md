@@ -1,11 +1,12 @@
-# Diseños
+# Diseños por categoría
 
-Un directorio por proyecto, con nombre estable y medidas cuando corresponda.
+| Categoría | Qué guardar aquí |
+| --- | --- |
+| [A1-Modifications](A1-Modifications/) | Mejoras y accesorios de la impresora: cadenas de cables, conectores, refuerzos y herramientas |
+| [Storage](Storage/) | Cajas, tapas, recipientes y organizadores |
 
-- [StackBox-105x147x28](StackBox-105x147x28/): caja y tapa modificadas.
-- [StackBox-Height3x](StackBox-Height3x/): altura exterior 3×, 99,34 mm.
-- [StackBox-Height6x](StackBox-Height6x/): altura exterior 6×, 198,68 mm.
-
-![Variantes 3× y 6× con la misma tapa](StackBox-HeightVariants.png)
+Dentro de cada categoría, cada proyecto tiene sus archivos finales en
+`Files/`, una ficha, una vista previa y sus créditos. Los originales anteriores
+de una pieza sustituida se identifican en `Sources/`.
 
 Para un proyecto nuevo, copia la [plantilla de ficha](../Templates/Design-README.md).

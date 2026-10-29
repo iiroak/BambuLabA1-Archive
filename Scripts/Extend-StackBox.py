@@ -72,7 +72,7 @@ def stl_bytes(vertices: list[list[float]], faces: list[list[int]]) -> bytes:
 def main() -> None:
     repo = Path(__file__).resolve().parents[1]
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--source", type=Path, default=repo/"Designs/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf")
+    parser.add_argument("--source", type=Path, default=repo/"Designs/Storage/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf")
     parser.add_argument("--factor", type=float, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
     args = parser.parse_args()
@@ -163,7 +163,7 @@ def main() -> None:
         "name": f"StackBox-Height{tag}",
         "units": "millimeter",
         "axes": "X length, Y width, Z height",
-        "source_project": "Designs/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf",
+        "source_project": "Designs/Storage/StackBox-105x147x28/Files/StackBox_105x147x28mm_Holgura_NoAMS.3mf",
         "source_sha256": hashlib.sha256(source_bytes).hexdigest(),
         "exterior_height_factor": args.factor,
         "base_exterior_height_mm": measured[2],

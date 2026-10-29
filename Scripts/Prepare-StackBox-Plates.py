@@ -146,8 +146,8 @@ def main():
     parser.add_argument("--output-dir", required=True, type=Path)
     args = parser.parse_args()
     if args.output_dir.exists(): raise SystemExit("Choose a new output directory.")
-    source3 = repo/"Designs/StackBox-Height3x/Files/StackBox_Height3x_NoAMS.3mf"
-    source6 = repo/"Designs/StackBox-Height6x/Files/StackBox_Height6x_NoAMS.3mf"
+    source3 = repo/"Designs/Storage/StackBox-Height3x/Files/StackBox_Height3x_NoAMS.3mf"
+    source6 = repo/"Designs/Storage/StackBox-Height6x/Files/StackBox_Height6x_NoAMS.3mf"
     if not source3.is_file() or not source6.is_file(): raise SystemExit("Both archived height variants are required.")
     projects = args.output_dir/"Projects"; projects.mkdir(parents=True)
     containers = make_plate(source3, [

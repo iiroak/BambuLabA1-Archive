@@ -53,7 +53,7 @@ def write_stl(path: Path, vertices: list[list[float]], faces: list[list[int]]) -
 
 
 def main() -> None:
-    default_recipe = Path(__file__).resolve().parents[1] / "Designs/StackBox-105x147x28/Recipe.json"
+    default_recipe = Path(__file__).resolve().parents[1] / "Designs/Storage/StackBox-105x147x28/Recipe.json"
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source", type=Path, help="Original StackBox_V3_NoAMS_Optimal.3mf")
     parser.add_argument("--recipe", type=Path, default=default_recipe)

@@ -1,0 +1,33 @@
+{
+  "replacement_matches_RV01_mesh": true,
+  "source_object_id": 50,
+  "single_object": true,
+  "watertight": true,
+  "winding_consistent": true,
+  "single_connected_solid": true,
+  "scaled": false,
+  "original_triangles": 17610,
+  "replacement_triangles": 21186,
+  "dimensions_xyz_mm": [
+    72.75,
+    29.5,
+    43.197815
+  ],
+  "placed_bounds_mm": [
+    [
+      91.625,
+      113.25,
+      0.0
+    ],
+    [
+      164.375,
+      142.75,
+      43.197815
+    ]
+  ],
+  "old_volume_mm3": 16509.079946942475,
+  "new_volume_mm3": 17435.245145125464,
+  "printer_profile_preserved": true,
+  "physical_fit_tested": false,
+  "native_Bambu_import_export_verified": true
+}

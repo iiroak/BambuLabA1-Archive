@@ -36,10 +36,10 @@ de los cuatro archivos en [SHA256SUMS.txt](SHA256SUMS.txt).
 
 ## Origen y reproducción
 
-Los proyectos proceden de [StackBox 3×](../../Designs/StackBox-Height3x/) y
-[StackBox 6×](../../Designs/StackBox-Height6x/), que ya incluyen un pote y una
+Los proyectos proceden de [StackBox 3×](../../Designs/Storage/StackBox-Height3x/) y
+[StackBox 6×](../../Designs/Storage/StackBox-Height6x/), que ya incluyen un pote y una
 tapa cada uno. Se pueden regenerar con `Scripts/Extend-StackBox.py`, usando
 el factor 3 o 6 y volviendo a laminar en Bambu Studio.
 
 Diseño original de **Agro1223**, adaptación y archivo de **iiroak**.
-Consulta la [atribución y permiso de publicación](../../Designs/StackBox-105x147x28/Attribution.md).
+Consulta la [atribución y permiso de publicación](../../Designs/Storage/StackBox-105x147x28/Attribution.md).

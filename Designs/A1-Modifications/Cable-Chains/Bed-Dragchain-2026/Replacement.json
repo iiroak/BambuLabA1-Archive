@@ -1,0 +1,22 @@
+{
+  "source_filename": "A1+bed+dragchain+RV01.3mf",
+  "source_sha256": "0164924ef7a896debab91eb00ca79076fcfcdab28ea43b439c472e70989e2b59",
+  "original_target_filename": "obj_42+bed+mount.3mf",
+  "original_target_sha256": "9671025f6ada69c6bee01bf7811a6e0f56cad02db7317943331cfe0792ecad93",
+  "source_object_id": "50",
+  "source_mesh_path": "3D/Objects/object_172.model",
+  "source_mesh_name": "bed mount test 03 (0.325).stl",
+  "target_mesh_path": "3D/Objects/object_1.model",
+  "original_vertices": 8803,
+  "original_triangles": 17610,
+  "replacement_vertices": 10591,
+  "replacement_triangles": 21186,
+  "dimensions_xyz_mm": [
+    72.75,
+    29.5,
+    43.197815000000006
+  ],
+  "scaled": false,
+  "target_build_transform": "1 0 0 0 1 0 0 0 1 128 128 21.5989075",
+  "output_filename": "obj_42+bed+mount.3mf"
+}

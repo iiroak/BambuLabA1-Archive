@@ -2,6 +2,8 @@
 
 Descripción breve y uso.
 
+Categoría: `Storage` o `A1-Modifications` (Cable-Chains, AMS-Lite o Tools).
+
 ## Archivos
 
 - Proyecto 3MF: `Files/Nombre.3mf`

@@ -12,7 +12,7 @@ alojar un objeto rectangular de **10,5 × 14,7 × 2,8 cm**.
 - [STL de la caja](Files/StackBox_Caja_105x147x28mm.stl)
 - [STL de la tapa](Files/StackBox_Tapa_105x147x28mm.stl)
 - [Medidas y uso](Medidas_y_uso.txt)
-- [Configuración registrada](../../Profiles/Process/StackBox-A1-0.28mm.snapshot.json)
+- [Configuración registrada](../../../Profiles/Process/StackBox-A1-0.28mm.snapshot.json)
 
 Abre el 3MF como proyecto y vuelve a laminar antes de imprimir. Los STL están
 expresados en milímetros. El 3MF incluye ambas piezas en una sola placa.
@@ -73,7 +73,7 @@ Su orden de ejes es largo, ancho, alto (X, Y, Z).
 
 ## Reproducir la modificación
 
-El [script](../../Scripts/Resize-StackBox.py) utiliza la biblioteca estándar de
+El [script](../../../Scripts/Resize-StackBox.py) utiliza la biblioteca estándar de
 Python 3.10 o posterior y la [receta numérica](Recipe.json). El archivo original
 debe obtenerse del autor; no se descarga automáticamente ni se incluye aquí.
 

@@ -10,7 +10,7 @@ Se ha extendido el tramo recto de las paredes, conservando el fondo y el rebaje 
 ## Archivos para imprimir
 
 Para imprimir un pote y su tapa juntos, utiliza los
-[proyectos por conjunto, ya laminados](../../PrintPlates/StackBox-Pote-y-Tapa/).
+[proyectos por conjunto, ya laminados](../../../PrintPlates/StackBox-Pote-y-Tapa/).
 
 - [Proyecto 3MF para Bambu Studio, sin AMS](Files/StackBox_Height3x_NoAMS.3mf)
 - [STL de la caja](Files/StackBox_Caja_Height3x.stl)
@@ -39,7 +39,7 @@ adaptación base. La receta completa está en [Derivation.json](Derivation.json)
 
 - Bambu Lab A1, boquilla de 0,4 mm, placa de 256 × 256 mm.
 - PLA Basic, capas de 0,28 mm, 2 paredes, relleno grid del 15 %, sin soportes.
-- [Registro del perfil conservado](../../Profiles/Process/StackBox-A1-0.28mm.snapshot.json).
+- [Registro del perfil conservado](../../../Profiles/Process/StackBox-A1-0.28mm.snapshot.json).
 - Mallas cerradas y orientadas; geometría de la tapa idéntica a la base.
 - Fondo y borde superior conservados, con comprobación de cierre y espacio útil.
 - Ambas piezas caben en el volumen configurado de la A1.

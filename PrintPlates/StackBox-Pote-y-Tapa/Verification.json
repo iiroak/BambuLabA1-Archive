@@ -25,7 +25,7 @@
       "file_bytes": 12454674
     },
     "physical_print_tested": false,
-    "geometry_verification": "../../Designs/StackBox-Height3x/Verification.json"
+    "geometry_verification": "../../Designs/Storage/StackBox-Height3x/Verification.json"
   },
   "6": {
     "parts": [
@@ -53,6 +53,6 @@
       "file_bytes": 23926581
     },
     "physical_print_tested": false,
-    "geometry_verification": "../../Designs/StackBox-Height6x/Verification.json"
+    "geometry_verification": "../../Designs/Storage/StackBox-Height6x/Verification.json"
   }
 }

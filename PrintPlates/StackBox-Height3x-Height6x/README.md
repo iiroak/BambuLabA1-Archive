@@ -58,4 +58,4 @@ renders y los archivos ya laminados son parte de esta publicación.
 
 Diseño original de **Agro1223**; adaptación, variantes y preparación de placas
 archivadas por **iiroak**. La atribución y el permiso de publicación están en
-la [ficha de la adaptación](../../Designs/StackBox-105x147x28/Attribution.md).
+la [ficha de la adaptación](../../Designs/Storage/StackBox-105x147x28/Attribution.md).
