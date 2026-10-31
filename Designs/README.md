@@ -2,7 +2,7 @@
 
 | Categoría | Qué guardar aquí |
 | --- | --- |
-| [A1-Modifications](A1-Modifications/) | Mejoras y accesorios de la impresora: cadenas de cables, conectores y herramientas |
+| [A1-Modifications](A1-Modifications/) | Mejoras y accesorios de la impresora: cadenas de cables, soportes, accesorios de purga y herramientas |
 | [Storage](Storage/) | Cajas, tapas, recipientes y organizadores |
 
 Dentro de cada categoría, cada proyecto tiene sus archivos finales en

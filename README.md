@@ -8,7 +8,7 @@ ordenado y compartir lo que pueda servirle a alguien más.
 
 | Categoría | Contenido |
 | --- | --- |
-| [A1-Modifications · mejoras de la impresora](Designs/A1-Modifications/) | Cadenas de cables, conectores de AMS Lite y herramientas |
+| [A1-Modifications · mejoras de la impresora](Designs/A1-Modifications/) | Cadenas de cables, accesorios de purga, soportes y herramientas |
 | [Storage · cajas y organizadores](Designs/Storage/) | StackBox, tapas y variantes de altura |
 
 ### Mejoras para la A1
@@ -17,6 +17,10 @@ ordenado y compartir lo que pueda servirle a alguien más.
 - [Side Dragchain](Designs/A1-Modifications/Cable-Chains/Side-Dragchain/).
 - [Conectores PTFE de AMS Lite](Designs/A1-Modifications/AMS-Lite/PTFE-Connector/).
 - [Mangos para las llaves Allen del kit 2026](Designs/A1-Modifications/Tools/Allen-Keys-2026/).
+- [Soporte para cinco placas](Designs/A1-Modifications/Build-Plates/Plate-Holder/).
+- [Limpiador y deflector de purga](Designs/A1-Modifications/Nozzle/Purge-Wiper/).
+- [Soporte y protección de tubos PTFE](Designs/A1-Modifications/AMS-Lite/Tube-Support/).
+- [Herramienta de mantenimiento del cabezal](Designs/A1-Modifications/Tools/Hotend-Tool/).
 
 ### Almacenamiento
 
@@ -41,8 +45,10 @@ importable, hashes y comprobación de los valores instalados en Bambu Studio.
 Designs/
   A1-Modifications/
     Cable-Chains/   Cadenas y soportes para el cableado
-    AMS-Lite/       Conectores PTFE
+    AMS-Lite/       Conectores, guías PTFE y protección del hub
     Tools/          Accesorios de mantenimiento
+    Build-Plates/   Soportes para placas de impresión
+    Nozzle/         Limpiador de boquilla y deflector de purga
   Storage/          Cajas, tapas y organizadores
 PrintPlates/        Proyectos agrupados y archivos ya laminados
 Profiles/           Ajustes de proceso, filamento e impresora
