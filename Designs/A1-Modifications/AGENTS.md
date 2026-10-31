@@ -7,6 +7,7 @@ Estas instrucciones se aplican a esta carpeta y a todas sus subcarpetas.
 - Mostrar la geometría real del modelo final. No inventar piezas ni modificar la geometría para la imagen.
 - Usar siempre el modelo de color plomo/gris neutro, con fondo gris oscuro opaco y cuadrícula discreta, como una vista de Bambu Studio.
 - Mantener iluminación suave y encuadre completo, sin recortes, interfaz, textos, colores de filamento ni fondos transparentes.
+- Revisar cada render al 100 % antes de publicarlo: no debe tener manchas negras, caras triangulares mal sombreadas ni superficies ausentes. Respetar las normales de origen; corregir la importación o el sombreado sin alterar el 3MF para ocultar errores de visualización.
 - Guardar una sola vista útil como `Preview.png`, optimizada y de tamaño moderado: aproximadamente 800 × 600 px y preferentemente menos de 250 KB.
 - No añadir capturas de referencia, escenas de Blender ni renders duplicados al repositorio.
 
