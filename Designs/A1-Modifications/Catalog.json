@@ -1,6 +1,6 @@
 {
   "imported_on": "2026-10-29",
-  "source_file_count": 7,
+  "source_file_count": 6,
   "files": [
     {
       "original_filename": "A1+bed+dragchain+RV01.3mf",
@@ -45,21 +45,6 @@
       "original_profile_user": "PixelFanLabs",
       "original_printer_profile": "Bambu Lab A1",
       "build_items": 40,
-      "note": "Archivo original archivado sin modificaciones."
-    },
-    {
-      "original_filename": "A1+head+drag+chain.3mf",
-      "category": "Cable-Chains/Head-Dragchain",
-      "original_sha256": "18f091b8001d83354ae0f723ff5ab30d7eff23236d88dfca002a8e16b5ab9e27",
-      "original_stored_at": "Designs/A1-Modifications/Cable-Chains/Head-Dragchain/Files/A1+head+drag+chain.3mf",
-      "active_project": "Designs/A1-Modifications/Cable-Chains/Head-Dragchain/Files/A1+head+drag+chain.3mf",
-      "active_sha256": "18f091b8001d83354ae0f723ff5ab30d7eff23236d88dfca002a8e16b5ab9e27",
-      "original_title": "A1 Print Head Drag Chain / Cable Chain",
-      "designer": "Kar Fai",
-      "declared_license": "Standard Digital File License",
-      "original_profile_user": "MaskenNetwork",
-      "original_printer_profile": "Bambu Lab A1",
-      "build_items": 54,
       "note": "Archivo original archivado sin modificaciones."
     },
     {
