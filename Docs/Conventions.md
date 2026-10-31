@@ -18,10 +18,16 @@ Los cambios posteriores quedan en el historial de Git.
 - `Designs/A1-Modifications/AMS-Lite/`: conectores y refuerzos del AMS Lite.
 - `Designs/A1-Modifications/Tools/`: accesorios de mantenimiento y herramientas.
 
-Los nombres originales de archivos aportados se conservan en `Files/` para
-poder reconocerlos. Cuando una pieza se sustituye, la versión activa queda
-en `Files/` y el original anterior se identifica en `Sources/`, con sus sumas
-de comprobación y una nota del cambio.
+En `A1-Modifications/` se guarda solo el proyecto final necesario, una vista
+previa y un README breve con el enlace a la fuente, autor y licencia. No se
+añaden originales anteriores, piezas ya incluidas en el conjunto, exportaciones
+duplicadas ni informes. Sus índices muestran tablas con miniaturas enlazadas.
+Consulta las [reglas de esta categoría](../Designs/A1-Modifications/AGENTS.md).
+
+En las demás categorías, los nombres originales de archivos aportados se
+conservan en `Files/` para poder reconocerlos. Cuando una pieza se sustituye,
+la versión activa queda en `Files/` y el original anterior se identifica en
+`Sources/`, con sus sumas de comprobación y una nota del cambio.
 
 Actualiza los enlaces relativos y las rutas de los scripts al mover un proyecto
 entre categorías. Los proyectos 3MF mantienen sus referencias internas al ZIP.

@@ -64,17 +64,3 @@ Python 3.10 o posterior, sin paquetes adicionales. La carpeta de salida debe
 ser nueva. El script genera proyectos editables y `Layout.json`; los
 [archivos publicados](../PrintPlates/StackBox-Height3x-Height6x/) incluyen también
 los renders y el G-code ya laminado para A1 / 0,4 mm / PLA Basic / PEI texturizado.
-
-## Update-Bed-Mount-2026.py
-
-Usa el **archivo suelto plano 2026** para sustituir el soporte antiguo dentro
-del **conjunto completo RV01**. Conserva los otros objetos, sus posiciones y
-el perfil del conjunto. Python 3.10 o posterior, sin paquetes adicionales.
-
-```sh
-python Scripts/Update-Bed-Mount-2026.py "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/obj_42+bed+mount_Provided2026.3mf" "Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/Sources/A1+bed+dragchain+RV01_Original.3mf" --output LocalExports/Bed-Dragchain-Flat-2026.3mf
-```
-
-La salida debe ser nueva. El primer argumento es la pieza plana y el segundo
-el conjunto original. El script rechaza el orden inverso y registra el cambio
-en `.replacement.json`.

@@ -1,21 +1,11 @@
-# A1-Modifications · mejoras para la impresora
+# A1-Modifications
 
-Refuerzos, guías de cables y herramientas para la A1, separados de los
-proyectos de almacenamiento.
+Mejoras y accesorios para la Bambu Lab A1.
 
-| Categoría | Modelo | Contenido |
+| Vista previa | Modelo | Contenido |
 | --- | --- | --- |
-| [Cable-Chains](Cable-Chains/) | [Bed-Dragchain-2026](Cable-Chains/Bed-Dragchain-2026/) | Cadena de la cama y conector 2026 actualizado |
-| Cable-Chains | [Side-Dragchain-V2](Cable-Chains/Side-Dragchain-V2/) | Cadena lateral V2.0 |
-| [AMS-Lite](AMS-Lite/) | [PTFE-Connector](AMS-Lite/PTFE-Connector/) | Cuatro conectores PTFE |
-| AMS-Lite | [Hub-Armor-Trio](AMS-Lite/Hub-Armor-Trio/) | Armadura, pieza para retirar soportes y cubierta del hub |
-| [Tools](Tools/) | [Allen-Keys-2026](Tools/Allen-Keys-2026/) | Mangos para las llaves del kit nuevo 2026 |
-
-Se incluyen los **6 archivos aportados** y el reemplazo del soporte de la
-cama, con el original anterior identificado por separado. Cada ficha recoge
-el autor, la licencia declarada y el perfil de impresora guardado. Algunos
-proyectos de origen guardan perfiles A1 mini o A2L; ese dato aparece en su ficha.
-
-El [catálogo](Catalog.json) relaciona nombres originales, ubicación actual y
-sumas de comprobación. La selección de compatibilidad 2026 corresponde a las
-indicaciones del mantenedor; las pruebas físicas quedan por registrar.
+| [<img src="Cable-Chains/Bed-Dragchain/Preview.png" width="240" alt="Bed Dragchain">](Cable-Chains/Bed-Dragchain/) | [Bed Dragchain](Cable-Chains/Bed-Dragchain/) | Cadena portacables de la cama de la A1, con el conector plano incluido en el conjunto. |
+| [<img src="Cable-Chains/Side-Dragchain/Preview.png" width="240" alt="Side Dragchain">](Cable-Chains/Side-Dragchain/) | [Side Dragchain](Cable-Chains/Side-Dragchain/) | Cadena portacables lateral de la A1, con sus eslabones, clips y soportes. |
+| [<img src="AMS-Lite/PTFE-Connector/Preview.png" width="240" alt="Conector PTFE">](AMS-Lite/PTFE-Connector/) | [Conector PTFE](AMS-Lite/PTFE-Connector/) | Cuatro conectores PTFE para AMS Lite. |
+| [<img src="AMS-Lite/Hub-Armor-Trio/Preview.png" width="240" alt="Hub Armor · Trio">](AMS-Lite/Hub-Armor-Trio/) | [Hub Armor · Trio](AMS-Lite/Hub-Armor-Trio/) | Armadura del hub de AMS Lite, pieza para retirar soportes y cubierta. |
+| [<img src="Tools/Allen-Keys-2026/Preview.png" width="240" alt="Mangos para llaves Allen">](Tools/Allen-Keys-2026/) | [Mangos para llaves Allen](Tools/Allen-Keys-2026/) | Mangos seleccionados para las llaves del kit A1 2026. El diseño de origen se llama «SNAPMAKER U1 allen keys handle». |

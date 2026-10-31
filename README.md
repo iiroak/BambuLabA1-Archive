@@ -13,8 +13,8 @@ ordenado y compartir lo que pueda servirle a alguien más.
 
 ### Mejoras para la A1
 
-- [Cadena de la cama y conector 2026 actualizado](Designs/A1-Modifications/Cable-Chains/Bed-Dragchain-2026/).
-- [Cadena lateral V2.0](Designs/A1-Modifications/Cable-Chains/Side-Dragchain-V2/).
+- [Bed Dragchain](Designs/A1-Modifications/Cable-Chains/Bed-Dragchain/).
+- [Side Dragchain](Designs/A1-Modifications/Cable-Chains/Side-Dragchain/).
 - [Conectores PTFE de AMS Lite](Designs/A1-Modifications/AMS-Lite/PTFE-Connector/).
 - [Hub Armor · Trio](Designs/A1-Modifications/AMS-Lite/Hub-Armor-Trio/).
 - [Mangos para las llaves Allen del kit 2026](Designs/A1-Modifications/Tools/Allen-Keys-2026/).

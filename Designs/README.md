@@ -6,7 +6,7 @@
 | [Storage](Storage/) | Cajas, tapas, recipientes y organizadores |
 
 Dentro de cada categoría, cada proyecto tiene sus archivos finales en
-`Files/`, una ficha, una vista previa y sus créditos. Los originales anteriores
-de una pieza sustituida se identifican en `Sources/`.
+`Files/`, una ficha, una vista previa y sus créditos. En A1-Modifications se
+guarda solo el modelo final y su fuente original, sin copias ni versiones anteriores.
 
 Para un proyecto nuevo, copia la [plantilla de ficha](../Templates/Design-README.md).
