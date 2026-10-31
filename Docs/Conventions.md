@@ -15,7 +15,7 @@ Los cambios posteriores quedan en el historial de Git.
 
 - `Designs/Storage/`: cajas, tapas, recipientes y organizadores.
 - `Designs/A1-Modifications/Cable-Chains/`: guías y soportes de cables de la impresora.
-- `Designs/A1-Modifications/AMS-Lite/`: conectores y refuerzos del AMS Lite.
+- `Designs/A1-Modifications/AMS-Lite/`: conectores PTFE para AMS Lite.
 - `Designs/A1-Modifications/Tools/`: accesorios de mantenimiento y herramientas.
 
 En `A1-Modifications/` se guarda solo el proyecto final necesario, una vista

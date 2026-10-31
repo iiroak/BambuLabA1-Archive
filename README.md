@@ -8,7 +8,7 @@ ordenado y compartir lo que pueda servirle a alguien más.
 
 | Categoría | Contenido |
 | --- | --- |
-| [A1-Modifications · mejoras de la impresora](Designs/A1-Modifications/) | Cadenas de cables, conectores, refuerzos de AMS Lite y herramientas |
+| [A1-Modifications · mejoras de la impresora](Designs/A1-Modifications/) | Cadenas de cables, conectores de AMS Lite y herramientas |
 | [Storage · cajas y organizadores](Designs/Storage/) | StackBox, tapas y variantes de altura |
 
 ### Mejoras para la A1
@@ -16,7 +16,6 @@ ordenado y compartir lo que pueda servirle a alguien más.
 - [Bed Dragchain](Designs/A1-Modifications/Cable-Chains/Bed-Dragchain/).
 - [Side Dragchain](Designs/A1-Modifications/Cable-Chains/Side-Dragchain/).
 - [Conectores PTFE de AMS Lite](Designs/A1-Modifications/AMS-Lite/PTFE-Connector/).
-- [Hub Armor · Trio](Designs/A1-Modifications/AMS-Lite/Hub-Armor-Trio/).
 - [Mangos para las llaves Allen del kit 2026](Designs/A1-Modifications/Tools/Allen-Keys-2026/).
 
 ### Almacenamiento
@@ -42,7 +41,7 @@ importable, hashes y comprobación de los valores instalados en Bambu Studio.
 Designs/
   A1-Modifications/
     Cable-Chains/   Cadenas y soportes para el cableado
-    AMS-Lite/       Conectores y protección del hub
+    AMS-Lite/       Conectores PTFE
     Tools/          Accesorios de mantenimiento
   Storage/          Cajas, tapas y organizadores
 PrintPlates/        Proyectos agrupados y archivos ya laminados
