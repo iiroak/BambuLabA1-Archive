@@ -15,6 +15,7 @@ ordenado y compartir lo que pueda servirle a alguien más.
 
 - [Bed Dragchain](Designs/A1-Modifications/Cable-Chains/Bed-Dragchain/).
 - [Side Dragchain](Designs/A1-Modifications/Cable-Chains/Side-Dragchain/).
+- [Soporte de cable derecho del eje X](Designs/A1-Modifications/Cable-Chains/Right-Cable-Support/).
 - [Conectores PTFE de AMS Lite](Designs/A1-Modifications/AMS-Lite/PTFE-Connector/).
 - [Mangos para las llaves Allen del kit 2026](Designs/A1-Modifications/Tools/Allen-Keys-2026/).
 - [Soporte para cinco placas](Designs/A1-Modifications/Build-Plates/Plate-Holder/).
